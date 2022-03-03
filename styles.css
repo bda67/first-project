@@ -1,0 +1,10 @@
+body{
+    width: fit-content;
+}
+div {
+    position: relative;
+    top: 20px;
+    right: 40px;
+    bottom: 10px;
+    left: 10px;
+}
